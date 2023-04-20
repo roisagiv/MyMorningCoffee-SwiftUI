@@ -1,0 +1,8 @@
+excluded:
+  - ${PWD}/Pods
+  - ${PWD}/Example/Pods
+
+analyzer_rules:
+  - typesafe_array_init
+  - unused_declaration
+  - unused_import
