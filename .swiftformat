@@ -1,4 +1,11 @@
---indent 2
--swiftversion 5.8
+--swiftversion 5.8
+
+# Exclude checkout directories for common package managers
 --exclude Pods
+
+# Options
+--indent 2
+--modifierorder
+
+# header
 --header \nMy Morning Coffee\n\nCopyright © {year} Roi Sagiv. All rights reserved.\nThis work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.\nTo view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/\n
