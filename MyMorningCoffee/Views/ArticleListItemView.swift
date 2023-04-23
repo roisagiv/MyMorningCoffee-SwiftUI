@@ -12,7 +12,7 @@ struct ArticleListItemView: View {
   internal let article: Article
   internal let now: Date
 
-  private let imageHeight = 128.0
+  private let imageHeight = 88.0
 
   var body: some View {
     HStack(alignment: .center) {
@@ -20,13 +20,15 @@ struct ArticleListItemView: View {
         .frame(width: imageHeight, height: imageHeight)
         .clipShape(RoundedRectangle(cornerRadius: 12))
 
-      VStack(alignment: .leading) {
-        Text(article.category).font(.caption)
+      VStack(alignment: .leading, spacing: 1) {
+        Text(article.category)
+          .font(.caption)
+
         Text(article.title ?? "")
-          .lineLimit(3)
+          .lineLimit(2)
           .font(.body)
           .fontWeight(.semibold)
-          .frame(maxHeight: .infinity)
+//          .frame(maxHeight: .infinity, alignment: .center)
 
         HStack(alignment: .center) {
           Text(article.author ?? "")
@@ -39,11 +41,9 @@ struct ArticleListItemView: View {
             .lineLimit(1)
           Spacer()
         } // HStack
-        .padding(.horizontal, 4)
-        .frame(maxWidth: .infinity)
-        .border(Color.red, width: 1)
       } // VStack
-      .padding(4)
+      .padding(2)
+//      .frame(maxHeight: .infinity)
     } // HStack
     .frame(height: imageHeight)
   }
@@ -52,8 +52,11 @@ struct ArticleListItemView: View {
 struct ArticleListItemView_Previews: PreviewProvider {
   static var previews: some View {
     let now = Dates.date(from: "2023-04-23T19:38:33.000Z") ?? Date.now
-    return ArticleListItemView(article: PreviewData.Articles.tikTok, now: now)
-      .previewLayout(.sizeThatFits)
-      .padding()
+    return Group {
+      ArticleListItemView(article: PreviewData.Articles.tikTok, now: now)
+      ArticleListItemView(article: PreviewData.Articles.loremIpsum, now: now)
+    }
+    .previewLayout(.sizeThatFits)
+    .padding()
   }
 }

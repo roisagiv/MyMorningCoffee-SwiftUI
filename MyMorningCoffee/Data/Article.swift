@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct Article: Codable, Hashable, Identifiable {
+struct Article: Codable, Hashable, Identifiable, Equatable {
   let id: Int
   let title: String?
   let coverImageUrl: String?

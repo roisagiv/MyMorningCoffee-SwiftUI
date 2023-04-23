@@ -1,20 +1,45 @@
 PODS:
-  - SwiftFormat/CLI (0.51.6)
+  - Alamofire (5.6.4)
+  - OHHTTPStubs/Core (9.1.0)
+  - OHHTTPStubs/Default (9.1.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (9.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (9.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (9.1.0)
+  - OHHTTPStubs/Swift (9.1.0):
+    - OHHTTPStubs/Default
+  - SnapshotTesting (1.10.0)
+  - SwiftFormat/CLI (0.51.8)
   - SwiftLint (0.51.0)
 
 DEPENDENCIES:
+  - Alamofire
+  - OHHTTPStubs/Swift
+  - SnapshotTesting
   - SwiftFormat/CLI
   - SwiftLint
 
 SPEC REPOS:
+  https://github.com/liamnichols/pointfreeco-specs:
+    - SnapshotTesting
   trunk:
+    - Alamofire
+    - OHHTTPStubs
     - SwiftFormat
     - SwiftLint
 
 SPEC CHECKSUMS:
-  SwiftFormat: b2062ab08a5c83c075e32355175c58b99e52187f
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  OHHTTPStubs: 90eac6d8f2c18317baeca36698523dc67c513831
+  SnapshotTesting: 4fe7ea328a460f90651ae38ca7f121f06d8ac5d2
+  SwiftFormat: 4334264324e20bad415888316165bdc1fc2860bc
   SwiftLint: 1b7561918a19e23bfed960e40759086e70f4dba5
 
-PODFILE CHECKSUM: 94ab7f5cd04a46ffc69863e89d4ec3610093545a
+PODFILE CHECKSUM: eb07150206187c496ab9e5f89fd995d1890ba0b9
 
 COCOAPODS: 1.12.1

@@ -6,14 +6,17 @@
 // To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
 //
 
-import SwiftUI
+import Foundation
 
-@main
-struct MyMorningCoffeeApp: App {
-  var body: some Scene {
-    let viewModel = ArticlesViewModel(hackerNewsService: HackerNewsAlgoliaService())
-    WindowGroup {
-      ArticlesContainerView(viewModel: viewModel, now: Date())
-    }
-  }
+protocol HackerNewsService {
+  func lastStories() async throws -> [HackerNewsStory]
+}
+
+struct HackerNewsStory {
+  let id: Int
+  let time: String?
+  let title: String
+  let url: String?
+  let type: String
+  let author: String?
 }

@@ -9,6 +9,10 @@
 import Foundation
 
 struct PreviewData {
+  enum Dates {
+    static var now: Date = MyMorningCoffee.Dates.date(from: "2023-04-23T19:38:33.000Z") ?? Date.now
+  }
+
   enum Articles {
     static var tikTok: Article = .init(
       id: 1,
@@ -20,8 +24,19 @@ struct PreviewData {
       category: "Story"
     )
 
+    static var loremIpsum: Article = .init(
+      id: 1,
+      title: "Lorem ipsum dolor sit amet",
+      coverImageUrl: "https://fakeimg.pl/350x200/?text=churchil",
+      author: "lorem",
+      createdAt: "2023-04-20T19:38:33.000Z",
+      url: "https://picsum.photos/200",
+      category: "Story"
+    )
+
     static var list: [Article] = [
       tikTok,
+      loremIpsum,
       .init(
         id: 2,
         title: "GitHub Copilot emits GPL code",
@@ -41,5 +56,7 @@ struct PreviewData {
         category: "Story"
       )
     ]
+
+    static var networkError = URLError(.networkConnectionLost)
   }
 }

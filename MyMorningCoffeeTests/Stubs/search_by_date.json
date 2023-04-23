@@ -1,0 +1,781 @@
+{
+  "hits": [
+    {
+      "created_at": "2023-04-22T19:38:33.000Z",
+      "title": "The Finalizer Pattern for Distributed Systems",
+      "url": "https://frankgrecojr.medium.com/the-finalizer-pattern-85e31eead273",
+      "author": "frankgrecojr",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682192313,
+      "_tags": [
+        "story",
+        "author_frankgrecojr",
+        "story_35670226"
+      ],
+      "objectID": "35670226",
+      "_highlightResult": {
+        "title": {
+          "value": "The Finalizer Pattern for Distributed Systems",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://frankgrecojr.medium.com/the-finalizer-pattern-85e31eead273",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "frankgrecojr",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:37:23.000Z",
+      "title": "Elon Musk Figured Out the Media's Biggest Weakness",
+      "url": "https://www.politico.com/news/magazine/2023/04/22/elon-musk-the-barking-mad-publicity-hound-00093293",
+      "author": "VagueMag",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682192243,
+      "_tags": [
+        "story",
+        "author_VagueMag",
+        "story_35670220"
+      ],
+      "objectID": "35670220",
+      "_highlightResult": {
+        "title": {
+          "value": "Elon Musk Figured Out the Media's Biggest Weakness",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.politico.com/news/magazine/2023/04/22/elon-musk-the-barking-mad-publicity-hound-00093293",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "VagueMag",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:36:11.000Z",
+      "title": "Will Apple take a big bite out of the banks?",
+      "url": "https://www.ft.com/content/fda76c42-0540-48a1-b1d9-259e1c2d6c3a",
+      "author": "belter",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682192171,
+      "_tags": [
+        "story",
+        "author_belter",
+        "story_35670210"
+      ],
+      "objectID": "35670210",
+      "_highlightResult": {
+        "title": {
+          "value": "Will Apple take a big bite out of the banks?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.ft.com/content/fda76c42-0540-48a1-b1d9-259e1c2d6c3a",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "belter",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:33:19.000Z",
+      "title": "No evidence of brain damage after severe coronavirus infection",
+      "url": "https://nltimes.nl/2023/04/22/research-evidence-brain-damage-severe-coronavirus-infection",
+      "author": "belter",
+      "points": 3,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191999,
+      "_tags": [
+        "story",
+        "author_belter",
+        "story_35670182"
+      ],
+      "objectID": "35670182",
+      "_highlightResult": {
+        "title": {
+          "value": "No evidence of brain damage after severe coronavirus infection",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://nltimes.nl/2023/04/22/research-evidence-brain-damage-severe-coronavirus-infection",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "belter",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:31:35.000Z",
+      "title": "The Official Mocktail of the European Space Agency",
+      "url": "https://www.atlasobscura.com/articles/space-juice-european-space-agency-mocktails",
+      "author": "6177c40f",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191895,
+      "_tags": [
+        "story",
+        "author_6177c40f",
+        "story_35670166"
+      ],
+      "objectID": "35670166",
+      "_highlightResult": {
+        "title": {
+          "value": "The Official Mocktail of the European Space Agency",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.atlasobscura.com/articles/space-juice-european-space-agency-mocktails",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "6177c40f",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:31:20.000Z",
+      "title": "YouTube, the Jewel of the Internet",
+      "url": "https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2",
+      "author": "belter",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191880,
+      "_tags": [
+        "story",
+        "author_belter",
+        "story_35670162"
+      ],
+      "objectID": "35670162",
+      "_highlightResult": {
+        "title": {
+          "value": "YouTube, the Jewel of the Internet",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "belter",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:29:13.000Z",
+      "title": "Sir David MacKay obituary (2016)",
+      "url": "https://www.theguardian.com/environment/2016/apr/18/sir-david-mackay-obituary",
+      "author": "rnjailamba",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191753,
+      "_tags": [
+        "story",
+        "author_rnjailamba",
+        "story_35670145"
+      ],
+      "objectID": "35670145",
+      "_highlightResult": {
+        "title": {
+          "value": "Sir David MacKay obituary (2016)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.theguardian.com/environment/2016/apr/18/sir-david-mackay-obituary",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "rnjailamba",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:28:45.000Z",
+      "title": "Watch Humane’s wearable AI projector in action",
+      "url": "https://www.inverse.com/tech/humane-ai-wearable-camera-sensor-projector-video-demo",
+      "author": "jkestner",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191725,
+      "_tags": [
+        "story",
+        "author_jkestner",
+        "story_35670139"
+      ],
+      "objectID": "35670139",
+      "_highlightResult": {
+        "title": {
+          "value": "Watch Humane’s wearable AI projector in action",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.inverse.com/tech/humane-ai-wearable-camera-sensor-projector-video-demo",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jkestner",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:28:22.000Z",
+      "title": "The Four Hobbies, and Apparent Expertise",
+      "url": "https://brooker.co.za/blog/2023/04/20/hobbies.html",
+      "author": "luu",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191702,
+      "_tags": [
+        "story",
+        "author_luu",
+        "story_35670129"
+      ],
+      "objectID": "35670129",
+      "_highlightResult": {
+        "title": {
+          "value": "The Four Hobbies, and Apparent Expertise",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://brooker.co.za/blog/2023/04/20/hobbies.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "luu",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:27:50.000Z",
+      "title": "Generate 3D objects and scenes by describing what you want to create",
+      "url": "https://spline.design/ai",
+      "author": "jasonjmcghee",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191670,
+      "_tags": [
+        "story",
+        "author_jasonjmcghee",
+        "story_35670127"
+      ],
+      "objectID": "35670127",
+      "_highlightResult": {
+        "title": {
+          "value": "Generate 3D objects and scenes by describing what you want to create",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://spline.design/ai",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jasonjmcghee",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:26:27.000Z",
+      "title": "Sounds Like These",
+      "url": "https://soundslikethese.com/",
+      "author": "WallyFunk",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191587,
+      "_tags": [
+        "story",
+        "author_WallyFunk",
+        "story_35670114"
+      ],
+      "objectID": "35670114",
+      "_highlightResult": {
+        "title": {
+          "value": "Sounds Like These",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://soundslikethese.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "WallyFunk",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:25:51.000Z",
+      "title": "Fictional Companies Wiki",
+      "url": "https://fictionalcompanies.fandom.com/wiki/Fictional_Companies_Wiki",
+      "author": "WallyFunk",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191551,
+      "_tags": [
+        "story",
+        "author_WallyFunk",
+        "story_35670107"
+      ],
+      "objectID": "35670107",
+      "_highlightResult": {
+        "title": {
+          "value": "Fictional Companies Wiki",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://fictionalcompanies.fandom.com/wiki/Fictional_Companies_Wiki",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "WallyFunk",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:25:31.000Z",
+      "title": "Ask HN: Is your resume consumed well by Workday, iCIMS, etc.?",
+      "url": null,
+      "author": "readonthegoapp",
+      "points": 1,
+      "story_text": "How did you do it? What format did you use? XML? Is there a schema?<p>Thanks.",
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191531,
+      "_tags": [
+        "story",
+        "author_readonthegoapp",
+        "story_35670102",
+        "ask_hn"
+      ],
+      "objectID": "35670102",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: Is your resume consumed well by Workday, iCIMS, etc.?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "readonthegoapp",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "How did you do it? What format did you use? XML? Is there a schema?<p>Thanks.",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:20:42.000Z",
+      "title": "Rolling your own loyalty points program",
+      "url": "https://www.amanazad.xyz/rolling-your-own-starbucks-loyalty-program/",
+      "author": "namadaza",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191242,
+      "_tags": [
+        "story",
+        "author_namadaza",
+        "story_35670054"
+      ],
+      "objectID": "35670054",
+      "_highlightResult": {
+        "title": {
+          "value": "Rolling your own loyalty points program",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.amanazad.xyz/rolling-your-own-starbucks-loyalty-program/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "namadaza",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:20:11.000Z",
+      "title": "Ask HN: How do you document/index random thoughts, observations, & learnings?",
+      "url": null,
+      "author": "Throwawayh89",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191211,
+      "_tags": [
+        "story",
+        "author_Throwawayh89",
+        "story_35670049",
+        "ask_hn"
+      ],
+      "objectID": "35670049",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: How do you document/index random thoughts, observations, & learnings?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Throwawayh89",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:18:32.000Z",
+      "title": "Unreal Engine 5 is just insane: this video isn’t real",
+      "url": "https://twitter.com/RealJonahBlake/status/1648738243842650112",
+      "author": "wslh",
+      "points": 4,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682191112,
+      "_tags": [
+        "story",
+        "author_wslh",
+        "story_35670032"
+      ],
+      "objectID": "35670032",
+      "_highlightResult": {
+        "title": {
+          "value": "Unreal Engine 5 is just insane: this video isn’t real",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://twitter.com/RealJonahBlake/status/1648738243842650112",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "wslh",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:15:15.000Z",
+      "title": "250k gallons of sewage spill into Los Angeles River, prompting beach closures",
+      "url": "https://www.cnn.com/2023/04/22/us/sewage-spill-los-angeles-river-trnd/index.html",
+      "author": "LinuxBender",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682190915,
+      "_tags": [
+        "story",
+        "author_LinuxBender",
+        "story_35670006"
+      ],
+      "objectID": "35670006",
+      "_highlightResult": {
+        "title": {
+          "value": "250k gallons of sewage spill into Los Angeles River, prompting beach closures",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cnn.com/2023/04/22/us/sewage-spill-los-angeles-river-trnd/index.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "LinuxBender",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:14:49.000Z",
+      "title": "Another bomb found in Belgorod just days after Russia accidentally struck city",
+      "url": "https://www.cnn.com/2023/04/22/europe/russia-belgorod-accident-bomb-found-intl/index.html",
+      "author": "LinuxBender",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682190889,
+      "_tags": [
+        "story",
+        "author_LinuxBender",
+        "story_35669997"
+      ],
+      "objectID": "35669997",
+      "_highlightResult": {
+        "title": {
+          "value": "Another bomb found in Belgorod just days after Russia accidentally struck city",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cnn.com/2023/04/22/europe/russia-belgorod-accident-bomb-found-intl/index.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "LinuxBender",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:11:59.000Z",
+      "title": "iPhone Doomed to Failure (2008)",
+      "url": "https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html",
+      "author": "peterjuras",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682190719,
+      "_tags": [
+        "story",
+        "author_peterjuras",
+        "story_35669968"
+      ],
+      "objectID": "35669968",
+      "_highlightResult": {
+        "title": {
+          "value": "iPhone Doomed to Failure (2008)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "peterjuras",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2023-04-22T19:11:30.000Z",
+      "title": "DHS announces AI task force, security sprint on China-related threats",
+      "url": "https://www.scmagazine.com/news/strategy/dhs-announces-ai-task-force-security-sprint-on-china-related-threats",
+      "author": "LinuxBender",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1682190690,
+      "_tags": [
+        "story",
+        "author_LinuxBender",
+        "story_35669965"
+      ],
+      "objectID": "35669965",
+      "_highlightResult": {
+        "title": {
+          "value": "DHS announces AI task force, security sprint on China-related threats",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.scmagazine.com/news/strategy/dhs-announces-ai-task-force-security-sprint-on-china-related-threats",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "LinuxBender",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 2375045,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": false,
+    "typo": true
+  },
+  "query": "",
+  "params": "advancedSyntax=true&analytics=true&analyticsTags=backend&tags=story",
+  "processingTimeMS": 1,
+  "processingTimingsMS": {
+    "request": {
+      "roundTrip": 15
+    },
+    "total": 1
+  },
+  "serverTimeMS": 1
+}

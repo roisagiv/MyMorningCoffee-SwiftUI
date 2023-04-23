@@ -9,14 +9,18 @@
 import SwiftUI
 
 struct ArticleListView: View {
-  internal let articles: [Article]
-  internal let now: Date
+  fileprivate let articles: [Article]
+  fileprivate let now: Date
+
+  init(articles: [Article], now: Date) {
+    self.articles = articles
+    self.now = now
+  }
 
   var body: some View {
     List {
       ForEach(articles) { article in
         ArticleListItemView(article: article, now: now)
-//          .listRowInsets(.init())
           .listRowSeparator(.hidden)
       }
     }

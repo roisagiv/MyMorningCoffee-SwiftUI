@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "B96ADB46-5954-42B2-B947-F1C65284A0B1",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MyMorningCoffee.xcodeproj",
+      "identifier" : "5F12BF7A29F183C700F6AAA1",
+      "name" : "MyMorningCoffee"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MyMorningCoffee.xcodeproj",
+        "identifier" : "5F12BF8A29F183CA00F6AAA1",
+        "name" : "MyMorningCoffeeTests"
+      }
+    },
+    {
+      "enabled" : false,
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:MyMorningCoffee.xcodeproj",
+        "identifier" : "5F12BF9429F183CA00F6AAA1",
+        "name" : "MyMorningCoffeeUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

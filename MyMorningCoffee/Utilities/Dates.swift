@@ -17,6 +17,7 @@ struct Dates {
 
   private static var relativeFormatter: RelativeDateTimeFormatter {
     let formatter = RelativeDateTimeFormatter()
+    formatter.locale = Locale(identifier: "en_CH")
     formatter.unitsStyle = .full
     return formatter
   }
